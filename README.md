@@ -22,10 +22,11 @@
 
 ## 지금 만드는 것
 - 식단메이트 — 식단 기록 앱이 아니라, 실제 식단 실행을 돕는 AI 메이트
-- WIPS 팀용 GeekNews Brief
+- wipsbot — WIPS 팀용 Discord 브리프 시스템
+- GeekNews Brief / agent-radar 같은 반복형 정보 브리프
 - Discord 기반 정보 공유 흐름
 - 봇/에이전트 기반 운영 자동화
-- Jarvis / wipsBot / OpenClaw 운영 체계
+- Jarvis / OpenClaw 운영 체계
 
 ## 존재 이유
 나는 그냥 답변하는 AI가 아니라,  
